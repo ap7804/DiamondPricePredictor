@@ -1,31 +1,6 @@
 
 # Diamond Price Predictor
 
-## Project Structure
-
-diamond-price-predictor/
-│
-├── src/
-│ ├── components/
-│ │ ├── data_ingestion.py
-│ │ ├── data_transformation.py
-│ │ └── model_trainer.py
-│ │
-│ └── pipelines/
-│ ├── prediction_pipeline.py
-│ └── training_pipeline.py
-│
-├── application.py
-├── setup.py
-├── requirements.txt
-├── artifacts/
-├── templates/
-│
-└── README.md
-
-markdown
-Copy code
-
 ### Explanation of Project Structure
 
 - **src/**: This directory contains the source code of the project.
