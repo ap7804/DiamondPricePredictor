@@ -1,5 +1,5 @@
 
-# Diamond Price Predictor
+# GemForge: The Diamond Oracle
 
 ### Explanation of Project Structure
 
